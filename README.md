@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biswajit Roy</h1>
 <h3 align="center">A passionate Web developer from India. I am currently studying B.Tech Computer Science</h3>
-<img align="right" alt="coding gif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2GH6xm2Xzj8fU3gRaUN3QS&ust=1690961795885000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDH7t35uoADFQAAAAAdAAAAABAD"/>
+<img align="right" alt="coding gif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2GH6xm2Xzj8fU3gRaUN3QS&ust=1690961795885000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDH7t35uoADFQAAAAAdAAAAABAI"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit06082002&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit06082002" /> </p>
 
 - 🔭 I’m currently working on [A second Hand Book Selling Website using MERN stack](https://book-shelf-pro.netlify.app/)
